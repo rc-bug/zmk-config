@@ -95,7 +95,7 @@
         default_layer {
             display-name = "DEFAULT";
             bindings = <
-&kp Q  &kp W       &kp E        &kp R        &kp T         &kp Y      &kp U        &kp I            &kp O         &kp P
+&kp Q  &kp W       &kp E        &kp R        &kp T         &kp Y      &kp U        &kp I            &kp k         &kp P
 &kp A  &kp S       &kp D        &kp F        &kp G         &kp H      &kp J        &kp K            &kp L         &kp BSPC
 &kp Z  &ht LALT X  &ht LCTRL C  &ht LGUI V   &kp B         &kp N      &ht RGUI M   &ht RCTRL COMMA  &ht RALT DOT  &kp ENTER
                                 &lt LEF TAB  &kp LSHIFT    &kp SPACE  &lt RIG TAB
